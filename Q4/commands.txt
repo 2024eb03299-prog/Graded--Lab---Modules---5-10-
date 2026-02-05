@@ -1,0 +1,2 @@
+# I created/collected the emails list file and used the script to validate/clean emails as required.
+# I separated valid and invalid emails into output files and verified the results with cat and ls.
