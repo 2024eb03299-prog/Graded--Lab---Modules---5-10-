@@ -1,0 +1,2 @@
+# I created a test directory with multiple files and then wrote bg_move.sh to move each file into backup/ in the background.
+# I printed the PID of each background move using $!, waited for all processes using wait, and verified the files moved successfully.
