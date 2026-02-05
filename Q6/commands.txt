@@ -1,0 +1,2 @@
+# I created the input text file and then wrote metrics.sh to calculate longest word, shortest word, average word length, and unique word count.
+# I ran the script and redirected results to output.txt, then displayed it using cat.
