@@ -1,0 +1,2 @@
+# I checked the folder contents to confirm the required files were present.
+# I executed the required steps/commands for Q1 and redirected the output to output.txt, then verified it using cat.
