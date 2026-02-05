@@ -1,0 +1,2 @@
+# I wrote a C program that creates multiple child processes using fork() and makes children exit.
+# The parent process cleaned up each terminated child using wait() / waitpid() and printed cleaned child PIDs to show no zombies remain.
