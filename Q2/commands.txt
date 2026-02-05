@@ -1,0 +1,2 @@
+# I created/used the provided log/input file(s) needed for this question.
+# I ran the shell script for Q2 to generate the required summary/output and saved it to output.txt, then verified the results.
