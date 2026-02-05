@@ -1,0 +1,2 @@
+# I prepared the required input file(s) for Q3 and confirmed using ls.
+# I executed the Q3 script/program and saved the output in output.txt, then checked correctness using cat.
