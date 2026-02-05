@@ -1,0 +1,2 @@
+# I created input.txt and wrote patterns.sh to classify words ignoring case into vowels.txt, consonants.txt, and mixed.txt.
+# I ran the script, then printed the generated files (and/or combined them into output.txt) to confirm correct categorization.
