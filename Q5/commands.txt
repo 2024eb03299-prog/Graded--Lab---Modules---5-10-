@@ -1,0 +1,2 @@
+# I created the required directories/files for syncing and confirmed structure using ls.
+# I ran the sync script to compare/copy files between folders and verified the final folder contents.
