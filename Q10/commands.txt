@@ -1,0 +1,2 @@
+# I wrote a C program where the parent runs continuously and installs signal handlers for SIGTERM and SIGINT.
+# One child sends SIGTERM after 5 seconds and another sends SIGINT after 10 seconds; the parent handles both differently and exits gracefully.
